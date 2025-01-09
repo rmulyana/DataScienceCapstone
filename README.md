@@ -3,8 +3,7 @@
 <img src="https://i.imgur.com/YCFnjvg.png" height="250" width="400">
 
 #### INSTRUCTORS
-
-#### IBM Skills Network Team, Abhishek Gagneja, Joseph Santarcangelo, Alex Aklson, Saishruthi Swaminathan, Hima Vasudevan, Aije Egwaikhide, Svetlana Levitan, Dr. Pooja, Romeo Kienzler, Polong Lin, Rav Ahuja, Saeed Aghabozorgi, Azim Hirjani, Yan Luo
+IBM Skills Network Team, Abhishek Gagneja, Joseph Santarcangelo, Alex Aklson, Saishruthi Swaminathan, Hima Vasudevan, Aije Egwaikhide, Svetlana Levitan, Dr. Pooja, Romeo Kienzler, Polong Lin, Rav Ahuja, Saeed Aghabozorgi, Azim Hirjani, Yan Luo
 
 This repository contains resources and solution of the quizzes given and asked in **[IBM Data Science Professional Certification](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)**
 
