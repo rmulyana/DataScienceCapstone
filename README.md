@@ -6,7 +6,7 @@
 
 #### IBM Skills Network Team, Abhishek Gagneja, Joseph Santarcangelo, Alex Aklson, Saishruthi Swaminathan, Hima Vasudevan, Aije Egwaikhide, Svetlana Levitan, Dr. Pooja, Romeo Kienzler, Polong Lin, Rav Ahuja, Saeed Aghabozorgi, Azim Hirjani, Yan Luo
 
-This repository contains resources and solution of the quizzes given and asked in **IBM Data Science Professional Certification (https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)**.
+This repository contains resources and solution of the quizzes given and asked in **[IBM Data Science Professional Certification](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)**
 
 #### There are 12 Courses in this Professional Certificate
 
